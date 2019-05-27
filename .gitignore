@@ -1,3 +1,4 @@
 wp-config
 .htaccess
 wp-content/uploads
+wp-content/themes/twentynineteen/package-lock.json
